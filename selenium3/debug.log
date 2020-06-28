@@ -1,0 +1,15 @@
+[0331/173249.680:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173249.726:ERROR:exception_snapshot_win.cc(98)] thread ID 5488 not found in process
+[0331/173251.712:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173251.712:ERROR:exception_snapshot_win.cc(98)] thread ID 8148 not found in process
+[0331/173424.719:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0331/173424.720:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173424.729:ERROR:exception_snapshot_win.cc(98)] thread ID 7708 not found in process
+[0331/173426.567:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173426.567:ERROR:exception_snapshot_win.cc(98)] thread ID 10820 not found in process
+[0331/173440.660:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173440.660:ERROR:exception_snapshot_win.cc(98)] thread ID 4640 not found in process
+[0331/173450.030:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173450.030:ERROR:exception_snapshot_win.cc(98)] thread ID 12992 not found in process
+[0331/173453.372:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0331/173453.372:ERROR:exception_snapshot_win.cc(98)] thread ID 9188 not found in process
